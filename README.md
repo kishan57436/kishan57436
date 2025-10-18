@@ -10,7 +10,7 @@
 - 🧠 Currently learning **Advanced React, Node.js, and AI Integrations**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, and AI Tools**
 - 🌍 Building projects that help people **shop safely, learn smarter, and work faster**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kishan-kumawat-a47011288/) | [Portfolio](ttps://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kishan-kumawat-a47011288/) | [Portfolio](https://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n)
 
 ---
 
