@@ -5,12 +5,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student (2022–2026)
+- 🎓 MCA CSE Student (2023–2026)
 - 💡 Love solving real-world problems using **AI + Web Technologies**
 - 🧠 Currently learning **Advanced React, Node.js, and AI Integrations**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, and AI Tools**
 - 🌍 Building projects that help people **shop safely, learn smarter, and work faster**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://your-portfolio-link)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kishan-kumawat-a47011288/) | [Portfolio](ttps://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n)
 
 ---
 
@@ -58,10 +58,10 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/kishan-kumawat-a47011288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="kishankumawat547@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/kishan57436"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="ttps://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
