@@ -81,7 +81,7 @@
 - 🧠 Currently learning **Advanced React, Node.js, and AI Integrations**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, and AI Tools**
 - 🌍 Building projects that help people **shop safely, learn smarter, and work faster**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kishan-kumawat-a47011288/) | [Portfolio](https://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kishan-kumawat-a47011288/) | [Portfolio](https://protofolio-kishan-j24n.vercel.app/)
 
 ---
 
@@ -105,9 +105,9 @@
 
 | 🚀 Project | 💬 Description | 🔗 Live / Repo |
 |------------|----------------|----------------|
-| 🧠 **Toolkit AI – Productivity Suite** | Architected and developed a full-stack AI Toolkit featuring 6 advanced utilities, including AI Image Generation, Object Removal, and an intelligent Resume Reviewer to enhance productivity. <br>• Integrated Gemini AI API, reducing resume feedback & article generation from hours to under 30s. <br>• Implemented secure authentication with Clerk (SSO via Google/GitHub), reducing custom auth code by 80%. <br>• Scalable backend with Node.js & Neon DB (PostgreSQL), handling 100+ concurrent users. <br>**Tech Stack:** React.js, Node.js, Express.js, JavaScript, Clerk, Neon DB, Gemini AI API, Vercel | [Live Link](https://github.com/kishan57436/ai-helper) |
-| 📋 **Smart Tasker – Task Management App** | Designed and deployed a full-stack platform enabling 50+ users to assign, track, and manage tasks with real-time updates. <br>• Admin dashboard monitors team metrics, reassigns tasks, and generates activity reports, improving task resolution by 30%. <br>• Secure authentication with JWT & role-based access control, preventing unauthorized access. <br>**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Redux, JWT | [Live Link](https://github.com/kishan57436/ai-helper) |
-| 📝 **Blogers – Personal Blogging Platform** | Developed a blogging website to create, publish, and manage content easily. <br>• Features include rich-text editor, post categorization, and responsive design. <br>• Implemented user authentication, CRUD operations for posts, and comment management. <br>**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, TailwindCSS | [Live Link](https://github.com/kishan57436/blogers) |
+| 🧠 **Toolkit AI – Productivity Suite** | Architected and developed a full-stack AI Toolkit featuring 6 advanced utilities, including AI Image Generation, Object Removal, and an intelligent Resume Reviewer to enhance productivity. <br>• Integrated Gemini AI API, reducing resume feedback & article generation from hours to under 30s. <br>• Implemented secure authentication with Clerk (SSO via Google/GitHub), reducing custom auth code by 80%. <br>• Scalable backend with Node.js & Neon DB (PostgreSQL), handling 100+ concurrent users. <br>**Tech Stack:** React.js, Node.js, Express.js, JavaScript, Clerk, Neon DB, Gemini AI API, Vercel | [Live Link](https://toolkit-ai-tawny.vercel.app/) |
+| 📋 **Smart Tasker – Task Management App** | Designed and deployed a full-stack platform enabling 50+ users to assign, track, and manage tasks with real-time updates. <br>• Admin dashboard monitors team metrics, reassigns tasks, and generates activity reports, improving task resolution by 30%. <br>• Secure authentication with JWT & role-based access control, preventing unauthorized access. <br>**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, Redux, JWT | [Live Link](https://miniproject-ten-indol.vercel.app/log-in) |
+| 📝 **Blogers – Personal Blogging Platform** | Developed a blogging website to create, publish, and manage content easily. <br>• Features include rich-text editor, post categorization, and responsive design. <br>• Implemented user authentication, CRUD operations for posts, and comment management. <br>**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, TailwindCSS | [Live Link](https://blogers-16tq.vercel.app/) |
 
 ---
 
@@ -131,7 +131,7 @@
   <a href="https://www.linkedin.com/in/kishan-kumawat-a47011288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:kishankumawat547@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/kishan57436"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://vercel.com/college542002-gmailcoms-projects/protofolio-kishan-j24n"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://protofolio-kishan-j24n.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
